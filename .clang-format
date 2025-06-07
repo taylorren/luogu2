@@ -1,0 +1,22 @@
+---
+Language: Cpp
+BasedOnStyle: Google
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+ColumnLimit: 80
+AllowShortFunctionsOnASingleLine: Empty
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+AlignTrailingComments: true
+SpacesBeforeTrailingComments: 2
+IndentCaseLabels: true
+BreakBeforeBraces: Allman
+SpaceBeforeParens: ControlStatements
+SpaceInEmptyParentheses: false
+SpacesInParentheses: false
+SpacesInSquareBrackets: false
+SpacesInAngles: false
+SpaceAfterTemplateKeyword: true
+SpaceBeforeAssignmentOperators: true
+PointerAlignment: Left
