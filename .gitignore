@@ -1,0 +1,4 @@
+# 忽略所有的a.out可执行文件
+a.out
+*/a.out
+**/a.out
