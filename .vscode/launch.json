@@ -8,7 +8,7 @@
             "name": "Launch",
             "type": "lldb",
             "request": "launch",
-            "program": "/home/tr/program/luogu_book_2/01.optimize/a.out",
+            "program": "/home/tr/program/luogu_book_2/02.prefix_sum/a.out",
             "args": [],
             "cwd": "${workspaceRoot}"
         }
