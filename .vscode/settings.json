@@ -179,5 +179,11 @@
     "titleBar.inactiveForeground": "#15202b99"
   },
   "peacock.remoteColor": "#f9e64f",
-  "kiroAgent.configureMCP": "Disabled"
+  "kiroAgent.configureMCP": "Disabled",
+  "editor.rulers": [
+    {
+      "column": 80,
+      "comment": "clang-format"
+    }
+  ]
 }
